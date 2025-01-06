@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stanley-zhao.github.io/static/css/main.01645432.css",
+    "main.js": "/stanley-zhao.github.io/static/js/main.f46234d7.js",
+    "index.html": "/stanley-zhao.github.io/index.html",
+    "main.01645432.css.map": "/stanley-zhao.github.io/static/css/main.01645432.css.map",
+    "main.f46234d7.js.map": "/stanley-zhao.github.io/static/js/main.f46234d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01645432.css",
+    "static/js/main.f46234d7.js"
+  ]
+}
